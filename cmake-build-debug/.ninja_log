@@ -1,0 +1,11 @@
+# ninja log v5
+3	681	7042917340916492	build.ninja	344a8efb7c8b32c9
+40	1331	7042916769411554	CMakeFiles/oop_tema2.dir/Automobil.cpp.obj	5f1b09dbba374a2e
+15	1352	7042916769632376	CMakeFiles/oop_tema2.dir/Autobus.cpp.obj	2c8b43109b0a219b
+57	1360	7042916769710751	CMakeFiles/oop_tema2.dir/Sedan.cpp.obj	64ebf56a0b77f4d9
+1	1984	7042916775932813	CMakeFiles/oop_tema2.dir/Depozit.cpp.obj	a66bd33bcc89d379
+4	633	7042917340916492	build.ninja	344a8efb7c8b32c9
+7	1390	7042917355914950	CMakeFiles/oop_tema2.dir/main.cpp.obj	396d6d9a151f4ed4
+1391	1714	7042917359138908	oop_tema2.exe	ad64b77355ca4ea6
+6	1061	7042918386858382	CMakeFiles/oop_tema2.dir/main.cpp.obj	396d6d9a151f4ed4
+1064	1369	7042918389914034	oop_tema2.exe	ad64b77355ca4ea6
